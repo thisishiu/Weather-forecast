@@ -1,0 +1,8 @@
+test/
+data/raw/
+data/processed/
+data/vietnam/
+data/testing/
+data/V1/
+venv/
+venv_win
