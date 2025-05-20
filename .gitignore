@@ -6,3 +6,4 @@ data/testing/
 data/V1/
 venv/
 venv_win
+utils/__pycache__
